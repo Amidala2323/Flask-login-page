@@ -1,0 +1,73 @@
+body{
+
+    background-image: url(back.jpg);
+}
+
+div.login_menu{
+
+    background-color: white;
+    border-radius: 15px;
+    position: fixed;
+    right: 600px;
+    left: 550px;
+    top: 200px;
+    width: 450px;
+    height: 480px;
+}
+
+h1.title{
+
+    text-align: center;
+}
+
+input.username_login{
+
+    border-radius: 10px;
+    width: 350px;
+    height: 35px;
+}
+
+input.password_login{
+
+    border-radius: 10px;
+    width: 350px;
+    height: 35px;
+    position: fixed;
+    top: 400px;
+    right: 590px;
+}
+
+input.btn_btn-default{
+
+
+    border-radius: 15px;
+    width: 400px;
+    height: 30px;
+    position: fixed;
+    left: 580px;
+    right: 20px;
+    top: 550px;
+
+}
+
+p.error_variable{
+
+    position: fixed;
+    top: 600;
+    left: 610px;
+    right: 20px;
+
+}
+
+p.forget_password{
+
+    position: fixed;
+    top: 425px;
+    left: 600px;
+
+}
+
+a.forget_password_link{
+
+    text-decoration: none;
+}
